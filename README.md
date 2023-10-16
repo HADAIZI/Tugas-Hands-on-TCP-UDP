@@ -99,4 +99,4 @@ What is the IP address of gaia.cs.umass.edu ? On what port number is it sending 
 > Protocol UDP no 17
 
 ### Soal 7
-The initial packet is labeled as number 4, while the subsequent one is identified as number 5. The source port number from the first packet is now the destination port in the second packet, and conversely, the destination port from the first packet has become the source port in the second packet.
+The initial packet is labeled as number 1, while the subsequent one is identified as number 2. The source port number from the first packet is now the destination port in the second packet, and conversely, the destination port from the first packet has become the source port in the second packet.
